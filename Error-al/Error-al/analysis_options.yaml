@@ -1,0 +1,8 @@
+# Configures the Dart analyzer for static code analysis and linting.
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Uncomment and customize rules as needed:
+    # avoid_print: false  # Disable the `avoid_print` rule
+    # prefer_single_quotes: true  # Enable the `prefer_single_quotes` rule
